@@ -1,4 +1,4 @@
-# This is 11ty website
+# This is an 11ty website
 
 `npx @11ty/eleventy --serve`
 
